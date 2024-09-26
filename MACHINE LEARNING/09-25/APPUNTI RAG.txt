@@ -1,0 +1,28 @@
+--------------------------------------------------------------------------------------------------------------
+-----------------------------------------VEDERE SLACK--------------------------------------------------------
+-----------------------------------PROVARE CODICI SU SLIDES---------------------------------------------------
+--------------------------------------------------------------------------------------------------------------
+INTRODUZIONE A RAG:
+Retreieval-Ragumented-Generation è un framework che combina modelli di generazione del linguaggio 
+con tecniche di recupero delle info.
+L'approccio permette di generare risposte pertinenti e contestualizzate. RAG può essere utilizzato per migliorare
+le applicazioni che richiedono un'interazione con gli utenti. (nel contesto OOP)
+
+UTILIZZO PRINCIPALE RAG:
+La RAG è una tecnica che permette di abbinare all'LLM la comprensione in tempo reale,
+rendendo i suoi input potenzialmente infiniti. 
+
+"LA DIFFERENZA CON GPT E' CHE NON BISOGNA FORNIRE IL CONTESTO"
+"SFRUTTIAMO L'LLM SOLO IN USCITA"
+
+CARATTERISTICHE DELLA RAG:
+(1) Utilizza un modulo di recupero per cercaare info rilevanti e poi usa un modulo di generazione
+per generare risposte. 
+
+(2) Migliore contestualizzazione:  il sistema recupera info rilevanti prima di generare risposte.
+
+(3)!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!segnatelo dopoo!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+FASI DELLA RAG:(INPUT-TOKENIZER-RETRIEVER-MODEL.GENERATE-OUTPUT)
+
+
